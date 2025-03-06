@@ -1,4 +1,4 @@
-name: Combine Playlists
+name: run
 
 on:
   schedule:
