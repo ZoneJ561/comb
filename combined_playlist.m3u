@@ -1,5 +1,6 @@
 #EXTM3U x-tvg-url="https://github.com/BuddyChewChew/combine-remote-epg/raw/refs/heads/main/combined_epg.xml"
 
+# 📺 Source: https://tvpass.org/playlist/m3u
 #EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed SD" group-title="Live",A&E US Eastern Feed SD
 https://tvpass.org/live/AEEast/sd
 #EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed HD" group-title="Live",A&E US Eastern Feed HD
@@ -800,6 +801,8 @@ https://tvpass.org/live/NHL13/hd
 https://tvpass.org/live/TNTEast/sd
 #EXTINF:-1 tvg-id="" tvg-name="New York Knicks @ Los Angeles Lakers (03/06 10:10 PM ET) HD" group-title="NBA",New York Knicks @ Los Angeles Lakers (03/06 10:10 PM ET) HD
 https://tvpass.org/live/TNTEast/hd
+
+# 📺 Source: https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.m3u
 #EXTINF:-1 group-title="MLB",03/06/25 01:05:00 PM EST = Minnesota Twins @ New York Yankees
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
 #EXTINF:-1 group-title="MLB",03/06/25 01:05:00 PM EST = Tampa Bay Rays @ Philadelphia Phillies
@@ -1082,6 +1085,8 @@ https://v16.thetvapp.to/hls/WeTVEast/tracks-v2a1/mono.m3u8?token=MrWMvwWDvaBVptP
 https://v6.thetvapp.to/hls/WNBCDT1/tracks-v2a1/mono.m3u8?token=HyOaZx-Mo8n9sOxnFUI1qA&expires=1741327163&user_id=dUxQeTRJSU5SeTJneFZBS2dJRzJvclBXY2hrRjU0dUpTWEFRY1o4OA==
 #EXTINF:-1 group-title="USA TV" tvg-ID="WNYW (New York) FOX East" tvg-name="WNYW (New York) FOX East" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10212_h15_ab.png", WNYW (New York) FOX East
 https://v6.thetvapp.to/hls/WNYWDT1/tracks-v2a1/mono.m3u8?token=Vhh62GRBVt34-OdxwjPcpw&expires=1741327168&user_id=dUxQeTRJSU5SeTJneFZBS2dJRzJvclBXY2hrRjU0dUpTWEFRY1o4OA==
+
+# 📺 Source: https://raw.githubusercontent.com/PyC7aM/IPTV/refs/heads/main/USTV.m3u8
 
 # Nos
 
@@ -2208,4 +2213,5 @@ http://23.237.104.106:8080/USA_WGN/index.m3u8
 http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 
 # Z
+
 
