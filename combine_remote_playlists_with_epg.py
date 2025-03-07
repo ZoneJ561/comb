@@ -2,9 +2,9 @@ import requests
 
 # Playlist URLs and their source labels
 playlists = [
-    "📺", "https://tvpass.org/playlist/m3u",
-    "📺", "https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.m3u",
-    "📺", "https://raw.githubusercontent.com/PyC7aM/IPTV/refs/heads/main/USTV.m3u8",
+    "https://tvpass.org/playlist/m3u",
+    "https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.m3u",
+    "https://raw.githubusercontent.com/PyC7aM/IPTV/refs/heads/main/USTV.m3u8",
 ]
 
 # EPG URL
