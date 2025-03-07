@@ -22,10 +22,15 @@ with open(output_file, "w", encoding="utf-8") as outfile:
             response.raise_for_status()
             lines = response.text.splitlines()
 
+            # Add 📺 emoji and source URL as a comment before each playlist block
+            outfile.write(f'# 📺 Source: {url}\n')
+
             # Skip the first line if it's an #EXTM3U (we already added our own above)
             for line in lines:
                 if not line.startswith("#EXTM3U"):
                     outfile.write(line + "\n")
+
+            outfile.write("\n")  # Add a blank line between playlist sections
 
             print(f"✅ Added channels from {url}")
 
