@@ -8,7 +8,7 @@ playlists = [
 ]
 
 # EPG URL
-epg_url = "https://tvpass.org/epg.xml"
+epg_url = "https://github.com/BuddyChewChew/combine-remote-epg/raw/refs/heads/main/combined_epg.xml"
 
 output_file = "combined_playlist.m3u"
 
