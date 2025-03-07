@@ -43,3 +43,6 @@ with open(output_file, "w", encoding="utf-8") as outfile:
             print(f"❌ Failed to fetch {url}: {e}")
 
 print(f"\n✅ Combined playlist saved as '{output_file}' with EPG: {epg_url}")
+
+if __name__ == "__main__":
+    fetch_and_combine_playlists()
