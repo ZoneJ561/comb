@@ -1,4 +1,4 @@
-## A COMBINED LIST OF PLAYLISTS FORM THE WEB
+## A COMBINED LIST OF PLAYLISTS FROM THE WEB
 
 Playlist: https://bit.ly/buddychewtv2
 - `tvpass.org`
