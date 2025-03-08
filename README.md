@@ -1,4 +1,4 @@
-## A combie list of .m3u urls from the web. 
+## A COMBINED LIST OF PLAYLISTS FORM THE WEB
 
 Playlist: https://bit.ly/buddychewtv2
 - `tvpass.org`
