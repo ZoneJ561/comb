@@ -2,7 +2,7 @@ import requests
 
 # Playlist URLs to combine
 playlists = [
-    "",
+    "https://tvpass.org/playlist/m3u",
     "",
     ""
     
