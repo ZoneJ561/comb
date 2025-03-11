@@ -3,6 +3,7 @@ import requests
 # Playlist URLs to combine
 playlists = [
     "https://bit.ly/moj-m3u8",
+    "https://github.com/iptv-org/iptv/blob/master/streams/us_moveonjoy.m3u",
     "https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.m3u",
     "https://tvpass.org/playlist/m3u"
     
