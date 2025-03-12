@@ -5261,7 +5261,7 @@ https://ddy6new.koskoros.ru/ddy6/premium99/mono.m3u8|Referer=https://dokoplay.xy
 https://ddy6new.koskoros.ru/ddy6/premium100/mono.m3u8|Referer=https://dokoplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://dokoplay.xyz
 
 
-# 📺 Source: https://raw.githubusercontent.com/BuddyChewChew/iptv-scraper/refs/heads/main/tvpass-all.m3u8
+# 📺 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/tvpass-all.m3u8
 
 #EXTINF:-1 tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png" group-title="ENTERTAINMENT",A&E HD
 #EXTVLCOPT:http-referrer=https://tvpass.org/
