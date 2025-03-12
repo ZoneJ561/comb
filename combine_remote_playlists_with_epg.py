@@ -5,7 +5,8 @@ playlists = [
     "https://bit.ly/moj-m3u8",
     "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us_moveonjoy.m3u",
     "https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.m3u",
-    "https://tvpass.org/playlist/m3u"
+    "https://tvpass.org/playlist/m3u",
+    "https://raw.githubusercontent.com/BuddyChewChew/iptv-scraper/refs/heads/main/daddylive-events-tivimate.m3u8"
     
 ]
 
