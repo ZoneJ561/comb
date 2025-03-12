@@ -2397,7 +2397,7 @@ https://tvpass.org/live/truTVEast/hd/
 https://tvpass.org/live/truTVEast/sd/
 
 
-# 📺 Source: https://raw.githubusercontent.com/BuddyChewChew/iptv-scraper/refs/heads/main/daddylive-channels-tivimate.m3u8
+# 📺 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/daddylive-channels-tivimate.m3u8
 
 #EXTINF:-1 tvg-id="M+.Vamos.es" group-title="SPAIN" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/vamos.png",#Vamos Spain
 https://windnew.koskoros.ru/wind/premium521/mono.m3u8|Referer=https://dokoplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://dokoplay.xyz
