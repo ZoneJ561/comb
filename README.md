@@ -7,12 +7,12 @@ Playlist: [](https://bit.ly/buddychewtv)
 - `Daddylive`
 - `moveonjoy`
 
-EPGS:
+Xtra (EPGS) to fill holes:
 
 - `tvpass` [tvpass-epg.xml.gz](https://github.com/pigzillaaaaa/iptv-scraper/raw/refs/heads/main/epgs/tvpass-epg.xml.gz)
 - `daddylive` [daddylive-epg.xml.gz](https://github.com/pigzillaaaaa/iptv-scraper/raw/refs/heads/main/epgs/daddylive-epg.xml.gz)
-- `moveonjoy` [moveonjoy-epg.xml.gz 1](https://github.com/pigzillaaaaa/iptv-scraper/raw/refs/heads/main/epgs/moveonjoy-epg.xml.gz)
-- `moveonjoy` [moveonjoy-epg.xml.gz 2](https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml)
+- `moveonjoy` [moveonjoy-epg.xml.gz](https://github.com/pigzillaaaaa/iptv-scraper/raw/refs/heads/main/epgs/moveonjoy-epg.xml.gz)
+- `moveonjoy` [epg.xml](https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml)
 - `acidjesuz` [guide.xml.gz](https://github.com/acidjesuz/EPGTalk/raw/refs/heads/master/guide.xml.gz)
 - `epgshare01` [epg_ripper_ALL_SOURCES1.xml.gz](https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz)
 - `epgshare01` [epg_ripper_US_LOCALS2.xml.gz](https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz)
