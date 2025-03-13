@@ -7,7 +7,7 @@ Playlist: [](https://bit.ly/buddychewtv)
 - `Daddylive`
 - `moveonjoy`
 
-# EPGS:
+EPGS:
 
 - `tvpass` [tvpass-epg.xml.gz](https://github.com/pigzillaaaaa/iptv-scraper/raw/refs/heads/main/epgs/tvpass-epg.xml.gz)
 - `daddylive` [daddylive-epg.xml.gz](https://github.com/pigzillaaaaa/iptv-scraper/raw/refs/heads/main/epgs/daddylive-epg.xml.gz)
