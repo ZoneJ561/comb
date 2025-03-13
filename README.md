@@ -1,6 +1,6 @@
 ## A COMBINED LIST OF PLAYLISTS FROM THE WEB
 
-Playlist: [](https://bit.ly/buddychewtv)
+Playlist: [combined_playlist.m3u]([https://bit.ly/buddychewtv](https://raw.githubusercontent.com/BuddyChewChew/combine-remote-playlists/refs/heads/main/combined_playlist.m3u)
 
 - `tvpass.org`
 - `thetvapp.to`
