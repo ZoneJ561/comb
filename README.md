@@ -1,7 +1,5 @@
-`A work in progress playlist might change.`
-
-
 ## A COMBINED LIST OF PLAYLISTS FROM THE WEB
+`A work in progress playlist might change.`
 
 - `tvpass.org`
 - `thetvapp.to`
