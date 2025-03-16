@@ -2,7 +2,7 @@ name: Combine Remote Playlists
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Every day at midnight
+    - cron: '0 * * * *'  # Every hour
   workflow_dispatch:
 
 jobs:
