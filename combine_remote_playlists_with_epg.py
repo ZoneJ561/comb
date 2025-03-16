@@ -1,4 +1,5 @@
 import requests
+from datetime import datetime
 
 # Playlist URLs to combine
 playlists = [
@@ -18,7 +19,8 @@ def fetch_and_combine_playlists():
     with open(output_file, "w", encoding="utf-8") as outfile:
         # Write header with EPG URL
         outfile.write(f'#EXTM3U x-tvg-url="{epg_url}"\n\n')
-
+        outfile.write(f'# Generated on {datetime.utcnow().isoformat()} UTC\n\n')  # Add timestamp
+        
         for url in playlists:
             try:
                 response = requests.get(url, timeout=15)
