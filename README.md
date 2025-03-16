@@ -1,7 +1,7 @@
 ## A COMBINED LIST OF PLAYLISTS FROM THE WEB
 `A work in progress playlist might change.`
 
-Playlist: [http://m3u4u.com/m3u/476rnm7j37t48z2qnekg](http://m3u4u.com/m3u/476rnm7j37t48z2qnekg)
+Playlist: [https://raw.githubusercontent.com/BuddyChewChew/combine-remote-playlists/refs/heads/main/combined_playlist.m3u](https://raw.githubusercontent.com/BuddyChewChew/combine-remote-playlists/refs/heads/main/combined_playlist.m3u)
 
 - `thetvapp.to` (Removed at the monment)
 - `tvpass.org`
