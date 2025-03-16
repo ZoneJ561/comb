@@ -3,9 +3,8 @@
 
 Playlist: [http://m3u4u.com/m3u/476rnm7j37t48z2qnekg](http://m3u4u.com/m3u/476rnm7j37t48z2qnekg)
 
-
+- `thetvapp.to` (Removed at the monment)
 - `tvpass.org`
-- `thetvapp.to`
 - `Daddylive`
 - `moveonjoy`
 
