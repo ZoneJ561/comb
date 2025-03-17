@@ -5,14 +5,11 @@ Playlist: [https://raw.githubusercontent.com/BuddyChewChew/combine-remote-playli
 
 - `tvpass.org` [EPG](https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/tvpass-all.m3u8)
 - `Daddylive` [EPG](https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/daddylive-channels-tivimate.m3u8)
-- `moveonjoy` [EPG](https://raw.githubusercontent.com/BuddyChewChew/MoveOnJoy/refs/heads/main/MoveOnJoy.m3u8)
-- `thetvapp.to` [Playlist](https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.m3u) | [EPG](https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.xml) {Removed can't be used in the script.}
+- `moveonjoy` [EPG](https://github.com/pigzillaaaaa/iptv-scraper/raw/refs/heads/main/epgs/moveonjoy-epg.xml.gz)
+- `thetvapp.to` [Playlist](https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.m3u) | [EPG](https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.xml) `Removed can't be used in the script`
 
 Xtra (EPGS) to fill holes:
 
-- `tvpass` [tvpass-epg.xml.gz](https://github.com/pigzillaaaaa/iptv-scraper/raw/refs/heads/main/epgs/tvpass-epg.xml.gz)
-- `daddylive` [daddylive-epg.xml.gz](https://github.com/pigzillaaaaa/iptv-scraper/raw/refs/heads/main/epgs/daddylive-epg.xml.gz)
-- `moveonjoy` [moveonjoy-epg.xml.gz](https://github.com/pigzillaaaaa/iptv-scraper/raw/refs/heads/main/epgs/moveonjoy-epg.xml.gz)
 - `moveonjoy` [epg.xml](https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml)
 - `acidjesuz` [guide.xml.gz](https://github.com/acidjesuz/EPGTalk/raw/refs/heads/master/guide.xml.gz)
 - `epgshare01` [epg_ripper_ALL_SOURCES1.xml.gz](https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz)
