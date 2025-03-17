@@ -11,7 +11,7 @@
 
 - `thetvapp.to` [Playlist](https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.m3u) | [EPG](https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.xml) `Removed can't be used in the script`
 
-Xtra (EPGS):
+Xtra EPG files. Just for 💩 and 😆.
 
 - `moveonjoy` [epg.xml](https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml)
 - `acidjesuz` [guide.xml.gz](https://github.com/acidjesuz/EPGTalk/raw/refs/heads/master/guide.xml.gz)
