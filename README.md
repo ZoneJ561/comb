@@ -6,10 +6,9 @@ Playlist: [https://raw.githubusercontent.com/BuddyChewChew/combine-remote-playli
 - `tvpass.org`
 - `Daddylive`
 - `moveonjoy`
-- 
-(Removed)
 
-- `thetvapp.to` [Playlist](https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.m3u) Stand alone link. Can't be used in the script.
+(Removed)
+- `thetvapp.to` [Playlist](https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.m3u) Can't be used in the script.
 
 Xtra (EPGS) to fill holes:
 
