@@ -1,6 +1,7 @@
 ## A COMBINED LIST OF PLAYLISTS FROM THE WEB
-> [!NOTE]
-> A work in progress playlist might change.
+
+
+▶️ A work in progress playlist might change.
 
 ⭐ All three one big Playlist: [combined_playlist.m3u](https://raw.githubusercontent.com/BuddyChewChew/combine-remote-playlists/refs/heads/main/combined_playlist.m3u)
 
@@ -11,7 +12,7 @@
 
 - `thetvapp.to` [Playlist](https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.m3u) | [EPG](https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.xml) `Removed can't be used in the script`
 
-Xtra EPG files. Just for 💩 and 😆.
+▶️ Extra EPG files just for 💩 and 😆.
 
 - `moveonjoy` [epg.xml](https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml)
 - `acidjesuz` [guide.xml.gz](https://github.com/acidjesuz/EPGTalk/raw/refs/heads/master/guide.xml.gz)
