@@ -1,5 +1,6 @@
 import requests
 from datetime import datetime
+import re
 
 # Playlist URLs to combine
 playlists = [
@@ -31,6 +32,8 @@ def fetch_and_combine_playlists():
 
                 for line in lines:
                     if not line.startswith("#EXTM3U"):  # Skip the initial header
+                        # Remove group-title="" tags
+                        line = re.sub(r'group-title="[^"]*"', '', line)
                         outfile.write(line + "\n")
 
                 outfile.write("\n")  # Space between sources
