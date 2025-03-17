@@ -8,7 +8,7 @@ Playlist: [https://raw.githubusercontent.com/BuddyChewChew/combine-remote-playli
 - `moveonjoy` [EPG](https://github.com/pigzillaaaaa/iptv-scraper/raw/refs/heads/main/epgs/moveonjoy-epg.xml.gz)
 - `thetvapp.to` [Playlist](https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.m3u) | [EPG](https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.xml) `Removed can't be used in the script`
 
-Xtra (EPGS) to fill holes:
+Xtra (EPGS):
 
 - `moveonjoy` [epg.xml](https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml)
 - `acidjesuz` [guide.xml.gz](https://github.com/acidjesuz/EPGTalk/raw/refs/heads/master/guide.xml.gz)
