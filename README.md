@@ -1,12 +1,14 @@
 ## A COMBINED LIST OF PLAYLISTS FROM THE WEB
 `A work in progress playlist might change.`
 
-Playlist: [https://raw.githubusercontent.com/BuddyChewChew/combine-remote-playlists/refs/heads/main/combined_playlist.m3u](https://raw.githubusercontent.com/BuddyChewChew/combine-remote-playlists/refs/heads/main/combined_playlist.m3u)
+Playlist: [combined_playlist.m3u](https://raw.githubusercontent.com/BuddyChewChew/combine-remote-playlists/refs/heads/main/combined_playlist.m3u)
 
-- `tvpass.org` [EPG](https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/tvpass-all.m3u8)
-- `Daddylive` [EPG](https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/daddylive-channels-tivimate.m3u8)
-- `moveonjoy` [EPG](https://github.com/pigzillaaaaa/iptv-scraper/raw/refs/heads/main/epgs/moveonjoy-epg.xml.gz)
-- `thetvapp.to` [Playlist](https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.m3u) | [EPG](https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.xml) `Removed can't be used in the script`
+- `tvpass.org` [Playlist](https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/tvpass-all.m3u8) | [EPG](https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/tvpass-all.m3u8)
+- `Daddylive` [Playlist](https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/daddylive-channels-tivimate.m3u8) | [EPG](https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/daddylive-channels-tivimate.m3u8)
+- `moveonjoy` [Playlist](https://raw.githubusercontent.com/BuddyChewChew/MoveOnJoy/refs/heads/main/MoveOnJoy.m3u8) | [EPG](https://github.com/pigzillaaaaa/iptv-scraper/raw/refs/heads/main/epgs/moveonjoy-epg.xml.gz)
+
+`Removed can't be used in the script`
+- `thetvapp.to` [Playlist](https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.m3u) | [EPG](https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.xml) 
 
 Xtra (EPGS):
 
