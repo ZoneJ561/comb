@@ -1,5 +1,8 @@
 ## A COMBINED LIST OF PLAYLISTS FROM THE WEB
 
+
+Depending on your player you might have to add epg liks from "Single playlist links".
+
 ⭐ All three one big playlist unsorted: [combined_playlist.m3u](https://raw.githubusercontent.com/BuddyChewChew/combine-remote-playlists/refs/heads/main/combined_playlist.m3u)
 
 ⭐ All three one big playlist sorted and filtered: [http://m3u4u.com/m3u/j67zn6wd5wbqe76qyd1w](http://m3u4u.com/m3u/j67zn6wd5wbqe76qyd1w)
