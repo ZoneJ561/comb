@@ -3,9 +3,9 @@
 
 Depending on your player you might have to add epg links from "Single playlist links".
 
-⭐ All three one big playlist unsorted: [combined_playlist.m3u](https://raw.githubusercontent.com/BuddyChewChew/combine-remote-playlists/refs/heads/main/combined_playlist.m3u)
+⭐ All three one big playlist unsorted: [Playlist](https://raw.githubusercontent.com/BuddyChewChew/combine-remote-playlists/refs/heads/main/combined_playlist.m3u)
 
-⭐ All three one big playlist sorted and filtered: [http://m3u4u.com/m3u/j67zn6wd5wbqe76qyd1w](http://m3u4u.com/m3u/j67zn6wd5wbqe76qyd1w)
+⭐ All three one big playlist sorted and filtered: [Playlist](http://m3u4u.com/m3u/j67zn6wd5wbqe76qyd1w)
 
 ## ▶️ Single playlist links.
 
