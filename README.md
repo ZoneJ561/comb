@@ -4,7 +4,7 @@
 
 ⭐ All three one big playlist sorted and filtered: [http://m3u4u.com/m3u/j67zn6wd5wbqe76qyd1w](http://m3u4u.com/m3u/j67zn6wd5wbqe76qyd1w)
 
-▶️ A work in progress links might change.
+## ▶️ Single playlist links.
 
 - `tvpass.org` [Playlist](https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/tvpass-all.m3u8) | [EPG](https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/tvpass-all.m3u8)
 - `Daddylive` [Playlist](https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/daddylive-channels-tivimate.m3u8) | [EPG](https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/daddylive-channels-tivimate.m3u8)
@@ -13,7 +13,7 @@
 ### Removed from big list can't be used in the script
 - `thetvapp.to` [Playlist](https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.m3u) | [EPG](https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.xml) 
 
-▶️ Extra EPG files just for 💩 and 😆.
+## ▶️ Extra EPG files just for 💩 and 😆.
 
 - `moveonjoy` [epg.xml](https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml)
 - `acidjesuz` [guide.xml.gz](https://github.com/acidjesuz/EPGTalk/raw/refs/heads/master/guide.xml.gz)
